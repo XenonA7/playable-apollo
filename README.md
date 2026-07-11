@@ -2,6 +2,7 @@
 Adds all combat arts to Apollo's player file with proper animation support, does not touch PVP Apollo.
 <img width="314" height="284" alt="myvideo-1-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/9b421289-98b0-4506-869b-73d91470a729" />
 
+>**Note:** I didn't put a ton of effort into this, I only spent a single evening on it. This mod can be improved if anybody is willing to draw crate push/pull animations, a level-up animation, or perhaps some other missing animations used in regular gameplay. I only really worried about the *combat* animation support for this mod. If anyone wants to contribute additional spritework, please contact me on my discord (https://discord.gg/CsfUk9vpFq).
 
 ### To play as Apollo:
 This mod does not contain a method to change characters on its own. Use the **char-select** mod.
