@@ -1,6 +1,6 @@
 {
   "character": "antagonists.fancyguy",
-  "sheet": "npc.fancyguy",
+  "sheet": "npc.fancyguy-custom",
   "headIdx": 4,
   "class": "SPHEROMANCER",
   "stats": {
